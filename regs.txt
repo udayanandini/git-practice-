@@ -80,8 +80,7 @@ Gender :
 <input type="radio" value="Female" name="gender"> Female   
 <input type="radio" value="Other" name="gender"> Other  
   
-</div>  
-<label>   
+  
 Phone :  
 </label>  
 <input type="text" name="country code" placeholder="Country Code"  value="+91" size="2"/>   
